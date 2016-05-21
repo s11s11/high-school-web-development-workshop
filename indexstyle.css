@@ -1,0 +1,48 @@
+body
+{
+	background-color: orange;
+}
+
+h1
+{
+	color: black;
+	font-family: "Verdana";
+}
+h1.listtitle
+{
+	color: black;
+	font-family: "Verdana";
+}
+p
+{
+	font-family: "Verdana";
+	color:black;
+	border:1px solid black;
+}
+p.head
+{
+	margin: 10px;
+	border:none;
+	font-size: 50px;
+}
+img.image1
+{
+	margin:0;
+}
+ul
+{
+	font-family: "Verdana";
+}
+.list1
+{
+	float: right;
+	border:1px solid orange;
+}
+.list2
+{
+	border: 1px solid orange;
+}
+.title
+{
+	font-size: 50px;
+}
